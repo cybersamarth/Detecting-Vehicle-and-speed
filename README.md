@@ -17,7 +17,7 @@
 **How to run project?**
 Follow steps:
 
-- Clone repo : git clone `https://github.com/sathyaraj819/Vehicle-Detection-And-Speed-Tracking.git`
+- Clone repo : git clone `https://github.com/cybersamarth/Detecting-Vehicle-and-speed.git`
 
 - cd (change directory) into vehicle-speed-check `cd vehicle-speed-check`
 
